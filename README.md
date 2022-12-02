@@ -2,7 +2,7 @@
 
 - This repository contains the data and my notebooks produced during the Keras with TensorFlow Course (freecodecamp.org)
 
-## Course and files overview
+## Course and notebooks overview
 
 1. [Introduction to Keras sequential model](https://github.com/rluyck/DL_with_Keras/blob/main/Keras_DL_Intro.ipynb)
   - data preparation
