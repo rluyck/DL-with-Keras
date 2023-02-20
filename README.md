@@ -1,6 +1,6 @@
 # Deep Learning with Keras
 
-- This repository contains the data and my notebooks produced during the Keras with TensorFlow Course (freecodecamp.org)
+- This repository contains the data and notebooks produced during the Keras with TensorFlow Course (freecodecamp.org)
 
 ## Course and notebooks overview
 
